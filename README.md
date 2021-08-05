@@ -1,6 +1,6 @@
 # SuperMario-Monopoly
  
-A gift for the my kids.
+A gift for my kids.
 
 They love both Super Mario and Monopoly, so I decided to make a DIY Monopoly game with super mario theme for them.
 
